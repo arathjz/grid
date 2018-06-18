@@ -204,11 +204,6 @@ footer a:hover {
     .container {
         height: 100vh;
     }
-
-    .movie-list {
-    grid-template-columns: repeat(auto-fill, minmax(100px, 500px));
-    grid-gap: 10px;
-}
 }
 
 
@@ -279,7 +274,10 @@ footer a:hover {
    /* aside */
 
    /* content */
-   
+   .movie-list {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 500px));
+        grid-gap: 10px;
+    }
    /* content */
 
    /* footer */
