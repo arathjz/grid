@@ -1,3 +1,3 @@
 # grid
 
-Project using Css grid and flexbox https://arathjz.github.io/space/
+Project using Css grid and flexbox https://arathjz.github.io/grid/
